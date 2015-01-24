@@ -1,0 +1,25 @@
+Angora, Angora rabbit 298
+Great Pyrenees 1
+Italian greyhound 1
+Labrador retriever 11
+Lhasa, Lhasa apso 8
+Pekinese, Pekingese, Peke 14
+Pomeranian 16
+Shetland sheepdog, Shetland sheep dog, Shetland 4
+Siamese cat, Siamese 15
+black-footed ferret, ferret, Mustela nigripes 93
+gibbon, Hylobates lar 3
+guinea pig, Cavia cobaya 292
+hamster 272
+keeshond 14
+malamute, malemute, Alaskan malamute 85
+marmoset 59
+muzzle 1
+polecat, fitch, foulmart, foumart, Mustela putorius 53
+quail 2
+shoji 3
+squirrel monkey, Saimiri sciureus 19
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita 11
+tiger, Panthera tigris 1
+window shade 183
+wood rabbit, cottontail, cottontail rabbit 41
